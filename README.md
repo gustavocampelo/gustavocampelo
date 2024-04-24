@@ -1,49 +1,35 @@
-### Hello, how are you? My name is Gustavo Campelo! 👋
+<img align="right" alt="People illustrations by Storyset - www.freepik.com" height="400" src="https://github.com/gustavocampelo/gustavocampelo/assets/83740600/27e00ce5-5938-4bd5-8b07-600f85c03d47">
 
-I am a UX/UI designer with a passion for crafting intuitive and visually appealing digital experiences. My journey into the world of design began with a fascination for understanding how users interact with technology and how I can enhance those interactions through thoughtful design solutions.
+<h1>
+    <a href="www.behance.net/gustavocampelo1">
+     <img align="center" alt="Logo Gustavo Campelo" width="36px" src="https://github.com/gustavocampelo/gustavocampelo/assets/83740600/03832f7a-840c-4d38-8593-ed94bf752158"></a>
+     Gustavo Campelo
+</h1>
 
-#
+<p align="justify">Hey there! I'm a UX/UI designer, constantly exploring ways to create seamless digital experiences. It all started with my curiosity about user interactions with technology and how design can elevate those experiences.
+<br>
+Oh, and did I mention I'm also into online gaming? It's my escape after a day of coding and designing. Speaking of which, I love diving into programming challenges and experimenting with new design concepts. And when I'm not geeking out over pixels, you'll find me adding to my action figure collection – it's my little obsession!</p>
 
-### Status 📊
-<a href="https://github.com/lucaszamorapy/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavocampelo&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavocampelo&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320" />
-</a>
+<h3 align="left">Connect with me</h3>
 
-##
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4b5056&color:FFF)](https://www.linkedin.com/in/gustavocampelo/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4b5056&color:FFF)](https://www.instagram.com/guztxvu/)
+[![Behance](https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance&logoColor=4b5056)](https://www.behance.net/gustavocampelo1)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=4b5056)](mailto:gustavocampelods@gmail.com)
 
-### Technologies 🧑‍💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" >
-  <img align="center" alt="C+" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>
+<h3 align="left">GitHub Stats</h3>
 
-  ##
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavocampelo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4b5056&text_color=FFF&border_radius=3&border_color=4b5056&icon_color=4b5056&theme=jolly)
+<br>
 
-  ### Studies 📘
-  <div style="display: inline-block"><br>
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </div>
-
-  ##
-
-### Contact me 💅
-<div> 
-  <a href="https://www.instagram.com/guztxvu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavocampelods@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavocampelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<details align="left">
+  <summary></summary> 
   
-</div>
+  * Mobile and Computer vector created by <a href="https://storyset.com/people">People illustrations by Storyset</a>
+  * GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  * Badges by <a href="https://shields.io/">shields.io</a><br>
+ 
+  <div align="right">Made by <a href="https://github.com/gustavocampelo">GC</a></div>
+
+</details>
 
