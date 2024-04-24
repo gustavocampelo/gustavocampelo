@@ -14,6 +14,7 @@ Oh, and did I mention I'm also into online gaming? It's my escape after a day of
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4b5056&color:FFF)](https://www.linkedin.com/in/gustavocampelo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4b5056&color:FFF)](https://www.instagram.com/guztxvu/)
+<br>
 [![Behance](https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance&logoColor=4b5056)](https://www.behance.net/gustavocampelo1)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=4b5056)](mailto:gustavocampelods@gmail.com)
 
